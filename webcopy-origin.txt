@@ -1,0 +1,1268 @@
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbai-demo-hoi-dap-chuyen-gia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbai-demo-y-kien-chuyen-gia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbao-dong-thap-noi-ve-thuc-pham-tang-can%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbao-thanh-nien-noi-ve-thuc-pham-tang-can%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbao-tuoi-tre-noi-ve-thuc-pham-tang-cang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbi-quyet-tang-can-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbi-quyet-tang-can-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fbi-quyet-tang-can-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fhuong-dan-tang-can-cho-nguoi-gay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fkhau-phan-cho-nguoi-muon-tang-can%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fmuon-tang-can-dung-quen-nhung-thuc-pham-sau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fnguyen-anh-khoa-truong-giang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fnguyen-thanh-binh-soc-trang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fong-tran-minh-thanh-tp-hcm%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fpham-thi-hanh-nha-trang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuc-don-tang-can-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuc-don-tang-can-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuc-don-tang-can-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuoc-tang-can-1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuoc-tang-can-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthucpham3.webtudong8giay.com%252Fthuoc-tang-can-3%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://thucpham3.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/author/admin/page/2/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\author\admin\page\2\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/author/admin/page/3/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\author\admin\page\3\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bai-demo-hoi-dap-chuyen-gia/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bai-demo-hoi-dap-chuyen-gia\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bai-demo-hoi-dap-chuyen-gia/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bai-demo-hoi-dap-chuyen-gia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bai-demo-y-kien-chuyen-gia/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bai-demo-y-kien-chuyen-gia\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bai-demo-y-kien-chuyen-gia/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bai-demo-y-kien-chuyen-gia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bao-dong-thap-noi-ve-thuc-pham-tang-can/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-dong-thap-noi-ve-thuc-pham-tang-can\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bao-dong-thap-noi-ve-thuc-pham-tang-can/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-dong-thap-noi-ve-thuc-pham-tang-can\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bao-thanh-nien-noi-ve-thuc-pham-tang-can/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-thanh-nien-noi-ve-thuc-pham-tang-can\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bao-thanh-nien-noi-ve-thuc-pham-tang-can/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-thanh-nien-noi-ve-thuc-pham-tang-can\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bao-tuoi-tre-noi-ve-thuc-pham-tang-cang/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-tuoi-tre-noi-ve-thuc-pham-tang-cang\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bao-tuoi-tre-noi-ve-thuc-pham-tang-cang/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bao-tuoi-tre-noi-ve-thuc-pham-tang-cang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-1/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-1\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-1/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-2/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-2\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-2/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-3/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-3\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/bi-quyet-tang-can-3/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\bi-quyet-tang-can-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/category/bao-chi-noi-ve-chung-toi/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\category\bao-chi-noi-ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/category/bao-chi-noi-ve-chung-toi/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\category\bao-chi-noi-ve-chung-toi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/chinh-sach-bao-mat/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\chinh-sach-bao-mat\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/chinh-sach-doi-tra/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\chinh-sach-doi-tra\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/chinh-sach-van-chuyen/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\chinh-sach-van-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/huong-dan-mua-hang/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\huong-dan-mua-hang\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/huong-dan-tang-can-cho-nguoi-gay/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\huong-dan-tang-can-cho-nguoi-gay\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/huong-dan-tang-can-cho-nguoi-gay/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\huong-dan-tang-can-cho-nguoi-gay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/khau-phan-cho-nguoi-muon-tang-can/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\khau-phan-cho-nguoi-muon-tang-can\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/khau-phan-cho-nguoi-muon-tang-can/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\khau-phan-cho-nguoi-muon-tang-can\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/muon-tang-can-dung-quen-nhung-thuc-pham-sau/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\muon-tang-can-dung-quen-nhung-thuc-pham-sau\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/muon-tang-can-dung-quen-nhung-thuc-pham-sau/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\muon-tang-can-dung-quen-nhung-thuc-pham-sau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/nguyen-anh-khoa-truong-giang/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\nguyen-anh-khoa-truong-giang\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/nguyen-anh-khoa-truong-giang/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\nguyen-anh-khoa-truong-giang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/nguyen-thanh-binh-soc-trang/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\nguyen-thanh-binh-soc-trang\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/nguyen-thanh-binh-soc-trang/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\nguyen-thanh-binh-soc-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/ong-tran-minh-thanh-tp-hcm/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\ong-tran-minh-thanh-tp-hcm\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/ong-tran-minh-thanh-tp-hcm/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\ong-tran-minh-thanh-tp-hcm\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/pham-thi-hanh-nha-trang/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\pham-thi-hanh-nha-trang\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/pham-thi-hanh-nha-trang/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\pham-thi-hanh-nha-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/quy-dinh-thanh-toan/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\quy-dinh-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-1/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-1\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-1/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-2/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-2\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-2/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-3/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-3\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuc-don-tang-can-3/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuc-don-tang-can-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-1/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-1\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-1/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-2/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-2\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-2/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-3/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-3\index.htm
+Content Type: text/html
+
+Uri: https://thucpham3.webtudong8giay.com/thuoc-tang-can-3/feed/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\thuoc-tang-can-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=1.1.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.bpopup.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/3-phuong-phap-tang-can-cho-nguoi-sieu-gay-ban-biet-chua-15-510x287.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\3-phuong-phap-tang-can-cho-nguoi-sieu-gay-ban-biet-chua-15-510x287.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/3-phuong-phap-tang-can-cho-nguoi-sieu-gay-ban-biet-chua-15.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\3-phuong-phap-tang-can-cho-nguoi-sieu-gay-ban-biet-chua-15.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/protein2-510x357.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\protein2-510x357.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/protein2-571x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\protein2-571x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/protein2-768x538.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\protein2-768x538.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/protein2.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\protein2.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-can-hieu-qua-cho-nu-510x290.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-can-hieu-qua-cho-nu-510x290.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-can-hieu-qua-cho-nu-704x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-can-hieu-qua-cho-nu-704x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-can-hieu-qua-cho-nu.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-can-hieu-qua-cho-nu.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co-510x315.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co-510x315.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co-648x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co-648x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co3-510x379.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co3-510x379.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co3-538x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co3-538x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tang-co3.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tang-co3.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tptc-510x346.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tptc-510x346.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tptc-590x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tptc-590x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/04/tptc.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\04\tptc.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/angelagold-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\angelagold-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/avatar12-315x210-280x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\avatar12-315x210-280x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/avatar12-315x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\avatar12-315x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/ba.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\ba.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-1-1860x664-1400x500.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-1-1860x664-1400x500.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-1-1860x664-510x182.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-1-1860x664-510x182.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-1-1860x664-768x274.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-1-1860x664-768x274.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-1-1860x664-800x286.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-1-1860x664-800x286.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-1-1860x664.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-1-1860x664.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-04-1900x678-1400x500.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-04-1900x678-1400x500.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-04-1900x678-510x182.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-04-1900x678-510x182.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-04-1900x678-768x274.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-04-1900x678-768x274.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-04-1900x678-800x285.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-04-1900x678-800x285.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-04-1900x678.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-04-1900x678.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-2-1866x666-1400x500.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-2-1866x666-1400x500.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-2-1866x666-510x182.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-2-1866x666-510x182.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-2-1866x666-768x274.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-2-1866x666-768x274.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-2-1866x666-800x286.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-2-1866x666-800x286.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/banner-kentamax-2-1866x666.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\banner-kentamax-2-1866x666.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bg-advisory-scaled.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bg-advisory-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bg-pattern-2.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bg-pattern-2.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bi-quyet-tang-can-1-278.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bi-quyet-tang-can-1-278.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bi-quyet-tang-can-2-281.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bi-quyet-tang-can-2-281.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bi-quyet-tang-can-3-284-280x280.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bi-quyet-tang-can-3-284-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bi-quyet-tang-can-3-284-339x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bi-quyet-tang-can-3-284-339x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bi-quyet-tang-can-3-284.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bi-quyet-tang-can-3-284.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bichphuong30-315x210-280x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bichphuong30-315x210-280x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bichphuong30-315x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bichphuong30-315x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/bn1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\bn1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/cropped-logo-emdema-180x180.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\cropped-logo-emdema-180x180.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/cropped-logo-emdema-192x192.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\cropped-logo-emdema-192x192.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/cropped-logo-emdema-32x32.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\cropped-logo-emdema-32x32.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/dathongbao.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\dathongbao.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/facebook.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\facebook.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/faz-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\faz-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/HaThai-315x210-280x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\HaThai-315x210-280x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/HaThai-315x210.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\HaThai-315x210.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/hline.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\hline.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/hotline-1.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\hotline-1.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/hung.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\hung.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-510x325.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-510x325.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-627x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-627x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-768x490.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21-768x490.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\img_2122_fa61ac02-c857-445e-75e3-baa6cb91aa21.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/jexmax-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\jexmax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/lgo1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\lgo1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/logo-kentamax.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\logo-kentamax.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-100x100.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-280x280.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-400x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-510x510.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-768x768.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2-800x800.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/MaXuanMinh_GT2.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\MaXuanMinh_GT2.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/otiv-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\otiv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/plus.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\plus.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/ra-mat-ico-dong-thap-2.jpg-nosmjtjxu3sntipk4nukjue2qr461ts7og3xvu1fp4.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\ra-mat-ico-dong-thap-2.jpg-nosmjtjxu3sntipk4nukjue2qr461ts7og3xvu1fp4.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/san-pham-top-345x400.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\san-pham-top-345x400.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/san-pham-top.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\san-pham-top.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/share.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\share.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/thuc-don-tang-can-1-287-280x280.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\thuc-don-tang-can-1-287-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/thuc-don-tang-can-1-287.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\thuc-don-tang-can-1-287.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/title-chuyen-gia-tu-van.png
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\title-chuyen-gia-tu-van.png
+Content Type: image/png
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/tuan-100x100.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\tuan-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/tuan.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\tuan.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/vnexpress-vnexpress-477x400.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\vnexpress-vnexpress-477x400.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/vnexpress-vnexpress-510x428.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\vnexpress-vnexpress-510x428.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/vnexpress-vnexpress-768x644.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\vnexpress-vnexpress-768x644.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/vnexpress-vnexpress.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\vnexpress-vnexpress.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-content/uploads/2018/05/wit-1.jpg
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-content\uploads\2018\05\wit-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://thucpham3.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbai-demo-hoi-dap-chuyen-gia%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbai-demo-hoi-dap-chuyen-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbai-demo-y-kien-chuyen-gia%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbai-demo-y-kien-chuyen-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-dong-thap-noi-ve-thuc-pham-tang-can%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-dong-thap-noi-ve-thuc-pham-tang-can%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-thanh-nien-noi-ve-thuc-pham-tang-can%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-thanh-nien-noi-ve-thuc-pham-tang-can%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-tuoi-tre-noi-ve-thuc-pham-tang-cang%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbao-tuoi-tre-noi-ve-thuc-pham-tang-cang%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-1%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-2%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-3%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fbi-quyet-tang-can-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-bao-mat%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-bao-mat%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-doi-tra%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-doi-tra%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fhuong-dan-mua-hang%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fhuong-dan-mua-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fhuong-dan-tang-can-cho-nguoi-gay%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fhuong-dan-tang-can-cho-nguoi-gay%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fkhau-phan-cho-nguoi-muon-tang-can%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fkhau-phan-cho-nguoi-muon-tang-can%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fmuon-tang-can-dung-quen-nhung-thuc-pham-sau%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fmuon-tang-can-dung-quen-nhung-thuc-pham-sau%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fnguyen-anh-khoa-truong-giang%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fnguyen-anh-khoa-truong-giang%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fnguyen-thanh-binh-soc-trang%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fnguyen-thanh-binh-soc-trang%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fong-tran-minh-thanh-tp-hcm%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fong-tran-minh-thanh-tp-hcm%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fpham-thi-hanh-nha-trang%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fpham-thi-hanh-nha-trang%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fquy-dinh-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fquy-dinh-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-1%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-2%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-3%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuc-don-tang-can-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-1%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-2%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-3%2F
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthucpham3.webtudong8giay.com%2Fthuoc-tang-can-3%2F&format=xml
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: text/xml
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/categories/29
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\categories\29
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/379
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\379
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/381
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\381
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/383
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\383
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/385
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\385
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/387
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\387
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/184
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\184
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/189
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\189
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/192
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\192
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/267
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\267
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/269
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\269
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/271
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\271
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/273
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\273
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/278
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\278
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/281
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\281
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/284
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\284
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/287
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\287
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/289
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\289
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/291
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\291
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/293
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\293
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/295
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\295
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/297
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\297
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/368
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\368
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/370
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\370
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/70
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\70
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/72
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\72
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/posts/74
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\posts\74
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://thucpham3.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thucpham3.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+

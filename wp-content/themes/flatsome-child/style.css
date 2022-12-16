@@ -1,0 +1,298 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+.div-kien-thuc-tang-can{
+	padding-bottom: 0px;
+}
+.div-kien-thuc-tang-can .col{
+	padding-bottom: 0px;
+}
+.container-width, .full-width .ubermenu-nav, .container, .row{
+	max-width: 1150px;
+}
+.post-sidebar{
+	padding: 12px !important;
+}
+.row-bai-lien-quan .col-inner{
+	padding: 0px !important;
+}
+.section-them h3{
+	margin-bottom: 5px;
+}
+.div-chi-tiet-phai{
+	padding: 0px;
+}
+.section-them{
+	padding-top: 30px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+.section-them .from_the_blog_excerpt {
+	font-size: 12px;
+}
+.section-them h5.post-title{
+	font-weight: normal;
+	font-size: 12px;
+}
+
+.div-ho-tro a{
+	font-size: 14px;
+}
+.div-ho-tro h3{
+	font-size: 14px;
+}
+.absolute-footer{
+	background-image: url(images/bg-pattern-2.jpg);
+}
+h2.title-sp p{
+	margin-bottom: 9px;
+
+}
+.footer .section{
+	padding: 0px;
+}
+.khuyen-mai-div p{
+	color: red;
+}
+.title-dat-hang{
+	text-transform: uppercase;
+	text-align: center;
+}
+.div-chi-tiet-phai .accordion-inner{
+	padding: 5px;
+}
+.div-chi-tiet-phai .wpcf7-submit{
+	width: 100%;
+}
+.div-chi-tiet-phai .col-inner{
+	background: #f9f9f9;
+	border: none;
+	border-bottom: 1px solid #e6e6e6;
+	padding: 14px;
+}
+.div-chi-tiet-phai .accordion-title {
+	font-size: 110%;
+	padding: .6em 0em;
+}
+.div-chi-tiet-phai i.icon-angle-down{
+	display: none;
+}
+.section-khach-hang button{
+	color: #ff8000;
+}
+.section-khach-hang .box-vertical{
+	background: #f3f3f3;
+	padding: 10px;
+	border-radius: 8px;
+}
+.section-khach-hang h5.post-title,.div-chi-tiet-phai h5.post-title{
+	min-height: 21px !important;
+}
+.section-khach-hang .is-divider{
+	height: 0px !important;
+}
+.is-divider{
+	height: 0px !important;
+}
+.entry-content{
+	padding-top: 0px;
+}
+.div-bao-chi h5.post-title,.div-kien-thuc h5.post-title{
+	min-height: 42px;
+}
+a.img-phone img{
+	width: 219px
+}
+a.img-share img,a.img-gg img,a.img-fb img{
+	height: 40px;
+}
+.footer p{
+	font-size: 14px;
+	margin-bottom: 4px;
+}
+.footer a{
+	margin: 5px;
+}
+.section-logo .gallery-col {
+	padding-bottom: 0px;
+}
+.section-logo .gallery-col p{
+	display: none;
+}
+.section-khach-hang .row-khach-hang .col-inner{
+	background: #f3f3f3;
+	padding: 10px;
+	border-radius: 8px;
+}
+.section-khach-hang p{
+	font-size: 13px;
+}
+.tieu-de {
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.section-gioi-thieu li{
+	color: white;
+}
+b, strong {
+	font-weight: bold;
+}
+
+/*Màu sắc button*/
+.social-button, .social-icons .button.icon:not(.is-outline), .social-icons .button.icon:hover {
+	background-color: currentColor !important;
+	border-color: currentColor !important;
+}
+.button.facebook,.button.facebook:not(.is-outline), .button.facebook:hover {
+	color: #fff;
+	background-color: #446084;
+	border-color: #446084;
+}
+.button.twitter,.button.twitter:not(.is-outline), .button.twitter:hover {
+	color: white !important;
+	background : #2478ba !important;
+	border-color: #2478ba;
+}
+.button.email,.button.email:not(.is-outline), .button.email:hover {
+	color: #fff;
+	background-color: black !important;
+	border-color: black !important;
+}
+.button.pinterest,.button.pinterest:not(.is-outline), .button.pinterest:hover {
+	color: #fff !important;
+	background-color: #cb2320  !important;
+	border-color: #cb2320  !important;
+}
+
+.button.google-plus,.button.google-plus:not(.is-outline), .button.google-plus:hover {
+	color: #fff !important;
+	background-color: #dd4e31 !important;
+	border-color: #dd4e31  !important;
+}
+.button.linkedin,.button.linkedin:not(.is-outline), .button.linkedin:hover {
+	color: #fff !important;
+	background-color: #0072b7 !important;
+	border-color: #0072b7     !important;
+}
+
+.single-date{
+	border-bottom: 1px dashed #ededed;
+}
+h1.entry-title{
+	font-size: 24px !important;
+}
+/*Kết thúc màu sắc*/
+
+
+
+footer.entry-meta {
+
+	border-top: none !important;
+	border-bottom: 1px dashed #ececec !important;
+
+}
+
+.entry-content img{
+
+}
+.duong-line {
+	background: rgba(0,0,0,0) url(images/line.png) repeat scroll 0 0;
+	height: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+}
+.related-post h7{
+	font-weight: bold;
+	font-size: 18px;
+	float: left;
+	margin: -8px 20px 0 0;
+}
+.summary ul.fields li {
+	margin: 0;
+	padding: 2px 0 2px 0;
+	font-size: 14px;
+	color: #000;
+	list-style: none;
+	background-position: 0 11px;
+}
+.summary ul.fields li:before {
+	content: "\f058";
+	font-family: FontAwesome;
+	color: #ff8000;
+	padding-right: 5px;
+}
+.summary ul.fields label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: 700;
+}
+.table-bordered thead {
+	background: #1d9a78;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+.table-bordered td {
+	background: #e3eeeb;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid #333; 
+	padding: 10px;
+	text-align: center;
+}
+.table-bordered th{
+	border: 1px solid #333;
+	padding: 10px;
+	text-align: center;
+}
+.div-can-biet .icon-box{
+	padding: 5px;
+}
+.form-dat-hang .title-dat-hang{
+	background: #1faa4b;
+	color: white;
+	padding: 8px 17px;
+}
+.form-dat-hang div{
+	padding: 10px;
+}
+p.gia-ban{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+}
+.section-gioi-thieu{
+	padding-top: 30px !important;
+}
+span.amount {
+	white-space: nowrap;
+	color: #111;
+	font-weight: bold;
+	color: red;
+}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media(max-width: 668px){
+	.div-kien-thuc,.div-khach-hang,.div-bao-chi,.div-video{
+		padding-bottom: 0px;
+	}
+	.section-chuyen-gia,.section-chuyen-gia,.section-gioi-thieu,.section-video,.section-kien-thuc{
+		padding-top: 15px !important;
+		padding-bottom: 15px !important;
+	}
+}
